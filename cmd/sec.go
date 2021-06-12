@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 
-func check (
-	fm
-)
+func Check() {
+	fmt.Println("dd")
+
+
+	
+}
